@@ -3,7 +3,7 @@ class Tss < Formula
   homepage "https://github.com/uditgoenka/tss"
   url "https://github.com/uditgoenka/tss/archive/refs/tags/v0.1.01.tar.gz"
   version "0.1.01"
-  sha256 "768ab528fd82839ff19139f7d79bd5499b3345d11b9100d62bf9bfd40e3d04ac"
+  sha256 "b1e360422828134887c86d488affe770f26d3c5661c29a69e86c4bf102055a0e"
   license "Apache-2.0"
 
   depends_on "rust" => :build
